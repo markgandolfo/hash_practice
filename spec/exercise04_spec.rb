@@ -1,6 +1,6 @@
 require_relative 'spec_helper'
 
-# Keys can also be strings, numbers of booleans, note the long hand key => value
+# Keys can also be strings, numbers or booleans, note the long hand key => value
 #
 #
 # To pass this exercise, look up the values for each empty variable below
